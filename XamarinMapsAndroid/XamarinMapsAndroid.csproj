@@ -118,7 +118,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SharedCode\SharedCode.csproj">
+    <ProjectReference Include="..\sharedCodeXamarinMaps\SharedCode.csproj">
       <Name>SharedCode</Name>
     </ProjectReference>
   </ItemGroup>
